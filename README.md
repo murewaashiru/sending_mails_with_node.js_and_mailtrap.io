@@ -12,12 +12,12 @@ $ cd sendEmail
 $ npm install
 ```
 
-Start the server:
+Start the main server:
 ```bash
 $ npm start
 ```
 
-Or start server using node:
+Or start the development server:
 ```bash
 $ npm run dev
 ```
